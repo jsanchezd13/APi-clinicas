@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+/mvnw text eol=lf
+*.cmd text eol=crlf
+=======
+/mvnw text eol=lf
+*.cmd text eol=crlf
+>>>>>>> ffcf5a27d8dc35521b8fa58bbb4e95f6aef4e943
